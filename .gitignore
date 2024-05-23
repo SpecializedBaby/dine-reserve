@@ -1,3 +1,4 @@
 .idea
 *.drawio
 venv
+**__pycache__/
